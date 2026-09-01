@@ -1,6 +1,6 @@
 # Luna's Quest (Lunina potraga)
 
-A little QBASIC adventure game where **Luna** — a girl with long brown hair and glasses — hops around a fantasy / Star Wars–like galaxy, collects hidden items, and runs from enemies.
+A little QBASIC adventure game where **Luna** - a girl with long hair and glasses - hops around a galaxy, collects hidden items, and runs from enemies.
 
 > This project has a personal history: I first built it and took it to the **informatics competition in 7th grade of elementary school**. This repo keeps that original idea alive, with a more complete second version added later.
 
